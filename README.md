@@ -15,6 +15,7 @@ Designed a web page which visually sort arrays using different sorting algorithm
 Used ReactJS to improve understanding of user interface design, testing and debugging within a website
 Improved the concepts of data structures and algorithms, as well as the front-end development
 
+![Alt text](data/final.gif)
 
 Before:
 
