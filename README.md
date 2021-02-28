@@ -18,7 +18,8 @@ Improved the concepts of data structures and algorithms, as well as the front-en
 ![Alt text](data/final.gif)
 
 Before:
-
+![Alt text](data/screenshot(41).png)
 
 
 After:
+![Alt text](data/screenshot(42).png)
