@@ -17,9 +17,14 @@ Improved the concepts of data structures and algorithms, as well as the front-en
 
 ![Alt text](data/final.gif)
 
-Before:
+1. Heap Sort
+2. Merge Sort
+3. Quick Sort
+4. Bubble Sort
+
+# Before:
 ![Alt text](data/screenshot2.png)
 
 
-After:
+# After:
 ![Alt text](data/screenshot1.png)
